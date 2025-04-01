@@ -1,0 +1,8 @@
+# exclure le répertoire info
+info/
+
+# exclure le fichier config
+/config
+
+# exclure tous les fichiers .sql
+*.sql
